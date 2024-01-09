@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lucifer!
 
-Welcome to my GitHub profile! 🚀 I'm a 21-year-old enthusiast based in the lively city of Ho Chi Minh, Vietnam. Join me on my journey to become the best programmer I can be.
+Welcome to my GitHub profile! 🚀 I'm a 21-year-old enthusiast based in the lively city of Ho Chi Minh City, Vietnam. Join me on my journey to become the best programmer I can be.
 
 ## About Me
 - 🎓 I'm a 21-year-old passionate learner.
