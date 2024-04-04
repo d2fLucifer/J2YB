@@ -1,0 +1,4 @@
+customers-id::customer_ordered-customer_id
+orders-id::customer_ordered-order_id
+orders-id::order_details-id
+customers-id::customers-id
